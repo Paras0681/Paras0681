@@ -1,6 +1,6 @@
-## Hello there 👋
+![bg](https://user-images.githubusercontent.com/77244089/133587662-7eedab0e-ef59-4350-ad27-feb412df1358.gif)
+# Hello there 👋
 # I'm Paras Kamble :smile: ...
-![man](https://user-images.githubusercontent.com/77244089/133586576-03517080-b88e-4c71-a0ff-541c712f8a96.png)
 ##  &nbsp;About Me:👨🏻‍💻
 ### 🎓&nbsp; Completed my B.E Computer Engineering degree doing :computer: 👨🏻‍💻 Full Stack development.
 ### Experienced in Python, Full-stack development. Proficient in React, Django, RestAPI Heroku, Python, Javascript, HTML, CSS. Passionate about web development, cyber security,technology-related. Looking for an industry that will allow to increase my skills in full-stack development.
