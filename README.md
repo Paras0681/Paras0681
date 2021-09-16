@@ -1,4 +1,3 @@
-![bg](https://user-images.githubusercontent.com/77244089/133587662-7eedab0e-ef59-4350-ad27-feb412df1358.gif)
 # Hello there 👋
 # I'm Paras Kamble :smile: ...
 ##  &nbsp;About Me:👨🏻‍💻
