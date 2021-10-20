@@ -1,7 +1,8 @@
 # Hello there 👋
 # I'm Paras Kamble :smile: ...
 ##  &nbsp;About Me:👨🏻‍💻
-### 🎓&nbsp; Completed my B.E Computer Engineering degree doing :computer: 👨🏻‍💻 Full Stack development.
+### 🎓&nbsp; Completed my B.E Computer Engineering degree :computer: 👨🏻‍💻 
+### 🏆🏅💯 Done Full Stack development course for (🐍 + ⚛️ ==> Django + React) stack.
 ### Experienced in Python, Full-stack development. Proficient in React, Django, RestAPI Heroku, Python, Javascript, HTML, CSS. Passionate about web development, cyber security,technology-related. Looking for an industry that will allow to increase my skills in full-stack development.
 ### 💬 &nbsp;Feel free to reach out to me.
 ### Here's my LinkedIn: <a href="https://linkedin.com/in/paras-kamble"><img src="https://img.shields.io/badge/-Paras%20Kamble-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
