@@ -25,5 +25,6 @@
 <a href="https://github.com/Paras0681">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Paras0681&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Paras0681&layout=compact&langs_count=8&theme=algolia"/>
+  [![Paras Kamble GitHub stats](https://github-readme-stats.vercel.app/api?username=Paras0681)](https://github.com/Paras0681/github-readme-stats)
 </a>
 </p>
